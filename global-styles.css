@@ -113,6 +113,30 @@ td {
   height: 200px;
 }
 
+.test {
+  margin: 30px;
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 25px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.test:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
 .btn {
    background: #3D94F6;
    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
